@@ -33,8 +33,8 @@ An interactive machine learning pipeline dashboard built with Streamlit for pred
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/netflix-stock-dashboard.git
-cd netflix-stock-dashboard
+git clone https://github.com/jackstealer/netflix_pred.git
+cd netflix_pred
 ```
 
 2. Create a virtual environment (recommended):
@@ -150,9 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/netflix-stock-dashboard](https://github.com/yourusername/netflix-stock-dashboard)
+Project Link: [https://github.com/jackstealer/netflix_pred](https://github.com/jackstealer/netflix_pred)
 
 ## Screenshots
 

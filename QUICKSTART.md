@@ -8,8 +8,8 @@ Get up and running with Netflix Stock Dashboard in 5 minutes!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netflix-stock-dashboard.git
-cd netflix-stock-dashboard
+git clone https://github.com/jackstealer/netflix_pred.git
+cd netflix_pred
 
 # Install dependencies
 pip install -r requirements.txt
@@ -22,8 +22,8 @@ streamlit run netflix_stock_dashboard.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netflix-stock-dashboard.git
-cd netflix-stock-dashboard
+git clone https://github.com/jackstealer/netflix_pred.git
+cd netflix_pred
 
 # Create virtual environment
 python -m venv .venv
@@ -192,7 +192,7 @@ pip install -r requirements.txt --force-reinstall
 - 📖 Check [DOCUMENTATION.md](DOCUMENTATION.md)
 - 🐛 Report issues on GitHub
 - 💬 Ask questions in Discussions
-- 📧 Contact: your.email@example.com
+- 📧 Contact: https://github.com/jackstealer
 
 ---
 
